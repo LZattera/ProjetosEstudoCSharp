@@ -12,3 +12,4 @@ C:\Users\letic\Desktop\repositorios\testeCSharp\ProjetosEstudoCSharp\obj\Debug\n
 C:\Users\letic\Desktop\repositorios\testeCSharp\ProjetosEstudoCSharp\obj\Debug\net8.0\ProjetosEstudoCSharp.pdb
 C:\Users\letic\Desktop\repositorios\testeCSharp\ProjetosEstudoCSharp\obj\Debug\net8.0\ProjetosEstudoCSharp.genruntimeconfig.cache
 C:\Users\letic\Desktop\repositorios\testeCSharp\ProjetosEstudoCSharp\obj\Debug\net8.0\ref\ProjetosEstudoCSharp.dll
+C:\Users\letic\Desktop\repositorios\testeCSharp\ProjetosEstudoCSharp\obj\Debug\net8.0\ProjetosEstudoCSharp.sourcelink.json

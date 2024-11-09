@@ -8,6 +8,7 @@ namespace ProjetosEstudoCSharp.Models
 {
     public class Pessoa
     {
+        //Eu posso ter duas classes com o mesmo nome mas o namespace tem que ser diferente
         // escreve prop, de um tab e ele cria a base de uma nova propriedade
         public string Nome { get; set; }
         public int    Idade { get; set; }
