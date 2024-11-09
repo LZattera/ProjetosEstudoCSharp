@@ -1,0 +1,14 @@
+C:\Users\letic\Desktop\repositorios\testeCSharp\ProjetosEstudoCSharp\bin\Debug\net8.0\ProjetosEstudoCSharp.exe
+C:\Users\letic\Desktop\repositorios\testeCSharp\ProjetosEstudoCSharp\bin\Debug\net8.0\ProjetosEstudoCSharp.deps.json
+C:\Users\letic\Desktop\repositorios\testeCSharp\ProjetosEstudoCSharp\bin\Debug\net8.0\ProjetosEstudoCSharp.runtimeconfig.json
+C:\Users\letic\Desktop\repositorios\testeCSharp\ProjetosEstudoCSharp\bin\Debug\net8.0\ProjetosEstudoCSharp.dll
+C:\Users\letic\Desktop\repositorios\testeCSharp\ProjetosEstudoCSharp\bin\Debug\net8.0\ProjetosEstudoCSharp.pdb
+C:\Users\letic\Desktop\repositorios\testeCSharp\ProjetosEstudoCSharp\obj\Debug\net8.0\ProjetosEstudoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\letic\Desktop\repositorios\testeCSharp\ProjetosEstudoCSharp\obj\Debug\net8.0\ProjetosEstudoCSharp.AssemblyInfoInputs.cache
+C:\Users\letic\Desktop\repositorios\testeCSharp\ProjetosEstudoCSharp\obj\Debug\net8.0\ProjetosEstudoCSharp.AssemblyInfo.cs
+C:\Users\letic\Desktop\repositorios\testeCSharp\ProjetosEstudoCSharp\obj\Debug\net8.0\ProjetosEstudoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\letic\Desktop\repositorios\testeCSharp\ProjetosEstudoCSharp\obj\Debug\net8.0\ProjetosEstudoCSharp.dll
+C:\Users\letic\Desktop\repositorios\testeCSharp\ProjetosEstudoCSharp\obj\Debug\net8.0\refint\ProjetosEstudoCSharp.dll
+C:\Users\letic\Desktop\repositorios\testeCSharp\ProjetosEstudoCSharp\obj\Debug\net8.0\ProjetosEstudoCSharp.pdb
+C:\Users\letic\Desktop\repositorios\testeCSharp\ProjetosEstudoCSharp\obj\Debug\net8.0\ProjetosEstudoCSharp.genruntimeconfig.cache
+C:\Users\letic\Desktop\repositorios\testeCSharp\ProjetosEstudoCSharp\obj\Debug\net8.0\ref\ProjetosEstudoCSharp.dll
